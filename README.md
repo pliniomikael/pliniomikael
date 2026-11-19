@@ -4,7 +4,7 @@
 
 Há mais de 5 anos construo o backend da [Vai de Promo](https://www.vaidepromo.com.br), na [Amo Promo](https://www.linkedin.com/company/amopromo/): busca, emissão, metasearch e integrações com LATAM, GOL, Azul e consolidadoras. Gosto de software simples, rápido e barato de operar, e de decidir otimização por profiling e métrica de produção, não por palpite.
 
-[LinkedIn](https://www.linkedin.com/in/pliniomikael) · contatopliniomikael@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pliniomikael) · pliniomikael@gmail.com
 
 ---
 
